@@ -2,7 +2,7 @@
 
 ## pwd
 
-![pwd_image](image/pwd.gif)
+![pwd_image](images/pwd.gif)
 
 - `print working directory`의 약자
 
@@ -10,7 +10,7 @@
 
 ## clear
 
-![clear_image](image/clear.gif)
+![clear_image](images/clear.gif)
 
 - 터미널의 내용을 모두 지우는 명령어
 
@@ -22,24 +22,24 @@
 
 ### cd "directory"
 
-![cd_1_image](image/cd%201.gif)
+![cd_1_image](images/cd_1.gif)
 
 - `directory`로 이동한다
 
 ### cd ..
 
-![cd_2_image](image/cd%202.gif)
+![cd_2_image](images/cd_2.gif)
 
 - 현재 디렉토리의 상위 디렉토리로 이동한다
 
 ### cd -
 
-![cd_3_image](image/cd%203.gif)
+![cd_3_image](images/cd_3.gif)
 
 - 이전 디렉토리로 되돌아간다
 
 ### cd ~
 
-![cd_4_image](image/cd%204.gif)
+![cd_4_image](images/cd_4.gif)
 
 - 홈 디렉토리로 이동한다
